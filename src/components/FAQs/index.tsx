@@ -4,7 +4,7 @@ import { TYPE } from '~/Theme';
 export default function FaqWrapper() {
 	return (
 		<>
-			<TYPE.largeHeader>FAQ asdasd</TYPE.largeHeader>
+			{/* <TYPE.largeHeader>FAQ</TYPE.largeHeader>
 			<Accordion allowMultiple margin={'0 auto'} style={{ width: '100%', maxWidth: '600px' }}>
 				<AccordionItem>
 					<h2>
@@ -66,7 +66,7 @@ export default function FaqWrapper() {
 						Thus, if any of the aggregators we integrate does an airdrop in the future, all swaps made through them would be eligible for their airdrop.
 					</AccordionPanel>
 				</AccordionItem>
-			</Accordion>
+			</Accordion> */}
 		</>
 	);
 }
