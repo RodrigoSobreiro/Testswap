@@ -4,7 +4,7 @@ import { TYPE } from '~/Theme';
 export default function FaqWrapper() {
 	return (
 		<>
-			<TYPE.largeHeader>FAQ</TYPE.largeHeader>
+			<TYPE.largeHeader>FAQ asdasd</TYPE.largeHeader>
 			<Accordion allowMultiple margin={'0 auto'} style={{ width: '100%', maxWidth: '600px' }}>
 				<AccordionItem>
 					<h2>
